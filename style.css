@@ -19,7 +19,6 @@
     font-size: 0.9rem;
 }
 
-/* Responsive */
 @media (max-width: 768px) {
     .table th, .table td {
         font-size: 0.9rem;
@@ -43,9 +42,6 @@
     margin-bottom: 20px;
   }
 
-  .carousel-control-prev-icon, .carousel-control-next-icon {
-    background-color: #007bff;
-  }
   #contacts h1{
 text-align: center;
 color: #ddd;
@@ -53,22 +49,22 @@ color: #ddd;
 
 .social-icons a {
 text-decoration: none;
-color: #080000;
+color: rgba(7, 160, 243, 0.927);
 font-size: 40px;
 margin: 0 15px;
 }
 
 .social-icons{
-  padding-left: 625px;
+  padding-left: 605px;
   margin-bottom: 60px;
   text-decoration: none;
-  color: #000; 
+  color: blue; 
   font-size: 40px; 
   transition: color 0.3s ease; 
 }
 
 .social-icons a:hover {
-  color: rgb(69, 175, 213); 
+  color: rgb(18, 112, 149); 
 }
 #contacts{
     margin-top: 50px;
